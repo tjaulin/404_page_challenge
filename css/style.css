@@ -18,7 +18,7 @@ main {
     /* border: 1px solid violet; */
     display: flex;
     justify-content: space-between;
-    width: 80%;
+    width: 90%;
 }
 
 #error404 {
@@ -62,7 +62,7 @@ main {
 /* ------------ MAIN ----------- */
 
 main img {
-    width: 600px;
+    width: 500px;
 }
 
 .error-content {
@@ -71,17 +71,17 @@ main img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* background-color: greenyellow; */
 }
 
 .error-content h1 {
-    font-size: 64px;
+    font-size: 54px;
     color: #333;
 }
 
 .error-content p {
-    font-size: 24px;
+    font-size: 20px;
     width: 50%;
+    color: #4f4f4f;
 }
 
 .error-content button {
